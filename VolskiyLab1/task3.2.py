@@ -1,0 +1,5 @@
+a, b, c, d = input("Введіть значення чотирьох змінних в рядок через ; ").split(";")
+print(a)
+print(b)
+print(c)
+print(d)

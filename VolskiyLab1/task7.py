@@ -1,0 +1,5 @@
+row = input("Введіть числовий рядок: ")
+int_row = int(row)
+float_row = float(row)
+print(int_row)
+print(float_row)
